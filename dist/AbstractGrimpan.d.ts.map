@@ -1,0 +1,1 @@
+{"version":3,"file":"AbstractGrimpan.d.ts","sourceRoot":"","sources":["../src/AbstractGrimpan.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,CAAC,QAAQ,OAAO,OAAO;IACnC,SAAS,aAAa,MAAM,EAAE,WAAW,GAAG,IAAI;IAMhD,QAAQ,CAAC,UAAU,IAAI,IAAI;IAC3B,QAAQ,CAAC,cAAc,IAAI,IAAI;IAE/B,MAAM,CAAC,WAAW;CACnB"}

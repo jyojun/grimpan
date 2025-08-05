@@ -1,0 +1,1 @@
+{"version":3,"file":"AbstractGrimpanFactory.js","sourceRoot":"","sources":["../src/AbstractGrimpanFactory.ts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,mBAAmB,CAAC;AAExC,MAAe,sBAAsB;IACnC,MAAM,CAAC,aAAa;QAClB,MAAM,IAAI,KAAK,CAAC,qBAAqB,CAAC,CAAC;IACzC,CAAC,CAAC,iBAAiB;CACpB;AAED,eAAe,sBAAsB,CAAC"}
