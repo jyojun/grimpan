@@ -1,1 +1,9 @@
-const str: string = "wow";
+import Grimpan from "./grimpan.js";
+
+console.log(Grimpan.getInstance() === Grimpan.getInstance());
+
+function main(instance: any) {
+  instance.initialize();
+}
+
+main(Grimpan.getInstance());
