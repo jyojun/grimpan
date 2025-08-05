@@ -1,1 +1,1 @@
-{"version":3,"file":"ChromeGrimpan.d.ts","sourceRoot":"","sources":["../src/ChromeGrimpan.ts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,mBAAmB,CAAC;AAExC,cAAM,aAAc,SAAQ,OAAO;IACjC,OAAO,CAAC,MAAM,CAAC,QAAQ,CAAU;IAEjC,UAAU,IAAI,IAAI;IAClB,cAAc,IAAI,IAAI;WAEN,WAAW;CAM5B;AAED,eAAe,aAAa,CAAC"}
+{"version":3,"file":"ChromeGrimpan.d.ts","sourceRoot":"","sources":["../src/ChromeGrimpan.ts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,mBAAmB,CAAC;AAExC,cAAM,aAAc,SAAQ,OAAO;IACjC,OAAO,CAAC,MAAM,CAAC,QAAQ,CAAgB;IAEvC,UAAU,IAAI,IAAI;WAEF,WAAW;CAM5B;AAED,eAAe,aAAa,CAAC"}

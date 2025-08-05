@@ -1,23 +1,12 @@
-import Grimpan from "./AbstractGrimpan";
-import AbstractGrimpanFactory from "./AbstractGrimpanFactory";
-import ChromeGrimpan from "./ChromeGrimpan";
-import IEGrimpan from "./IEGrimpan";
-
-class ChromeGrimpanFactory extends AbstractGrimpanFactory {
-  static override createGrimpan() {
-    return ChromeGrimpan.getInstance();
-  }
-}
-
-class IEGrimpanFactory extends AbstractGrimpanFactory {
-  static override createGrimpan() {
-    return IEGrimpan.getInstance();
-  }
-}
+import { ChromeGrimpanFactory } from "./GrimpanFactory";
 
 function main() {
-  const grimpan = ChromeGrimpanFactory.createGrimpan();
+  const factory = ChromeGrimpanFactory;
+  const grimpan = factory.createGrimpan();
+  const grimpanMenu = factory.createGrimpanMenu(grimpan);
+  const grimpanHistory = factory.createGrimpanHistory(grimpan);
   grimpan.initialize();
-  grimpan.initializeMenu();
+  grimpanMenu.initialize();
+  grimpanHistory.initialize(); // 추가된 부분 (히스토리 기능 추가)
 }
 main();

@@ -1,10 +1,9 @@
 import Grimpan from "./AbstractGrimpan";
 
 class IEGrimpan extends Grimpan {
-  private static instance: Grimpan;
+  private static instance: IEGrimpan;
 
   initialize(): void {}
-  initializeMenu(): void {}
 
   static override getInstance() {
     if (!this.instance) {

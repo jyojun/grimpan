@@ -1,10 +1,9 @@
 import Grimpan from "./AbstractGrimpan";
 
 class ChromeGrimpan extends Grimpan {
-  private static instance: Grimpan;
+  private static instance: ChromeGrimpan;
 
   initialize(): void {}
-  initializeMenu(): void {}
 
   static override getInstance() {
     if (!this.instance) {
