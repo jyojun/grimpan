@@ -1,4 +1,4 @@
-import Grimpan from "./AbstractGrimpan";
+import Grimpan from "./AbstractGrimpan.js";
 
 class ChromeGrimpan extends Grimpan {
   private static instance: ChromeGrimpan;

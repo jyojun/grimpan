@@ -1,1 +1,1 @@
-{"version":3,"file":"IEGrimpan.d.ts","sourceRoot":"","sources":["../src/IEGrimpan.ts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,mBAAmB,CAAC;AAExC,cAAM,SAAU,SAAQ,OAAO;IAC7B,OAAO,CAAC,MAAM,CAAC,QAAQ,CAAY;IAEnC,UAAU,IAAI,IAAI;WAEF,WAAW;CAM5B;AAED,eAAe,SAAS,CAAC"}
+{"version":3,"file":"IEGrimpan.d.ts","sourceRoot":"","sources":["../src/IEGrimpan.ts"],"names":[],"mappings":"AAAA,OAAO,OAAO,MAAM,sBAAsB,CAAC;AAE3C,cAAM,SAAU,SAAQ,OAAO;IAC7B,OAAO,CAAC,MAAM,CAAC,QAAQ,CAAY;IAEnC,UAAU,IAAI,IAAI;WAEF,WAAW;CAM5B;AAED,eAAe,SAAS,CAAC"}

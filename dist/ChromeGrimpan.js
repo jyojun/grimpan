@@ -1,4 +1,4 @@
-import Grimpan from "./AbstractGrimpan";
+import Grimpan from "./AbstractGrimpan.js";
 class ChromeGrimpan extends Grimpan {
     static instance;
     initialize() { }
@@ -10,4 +10,3 @@ class ChromeGrimpan extends Grimpan {
     }
 }
 export default ChromeGrimpan;
-//# sourceMappingURL=ChromeGrimpan.js.map

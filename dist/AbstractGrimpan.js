@@ -6,4 +6,3 @@ export default class Grimpan {
     }
     static getInstance() { }
 }
-//# sourceMappingURL=AbstractGrimpan.js.map

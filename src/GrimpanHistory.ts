@@ -1,6 +1,6 @@
-import type Grimpan from "./AbstractGrimpan";
-import type IEGrimpan from "./IEGrimpan";
-import type ChromeGrimpan from "./ChromeGrimpan";
+import type Grimpan from "./AbstractGrimpan.js";
+import type IEGrimpan from "./IEGrimpan.js";
+import type ChromeGrimpan from "./ChromeGrimpan.js";
 
 export abstract class GrimpanHistory {
   grimpan: Grimpan;

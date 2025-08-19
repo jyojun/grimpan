@@ -25,4 +25,3 @@ export class IEGrimpanHistory extends GrimpanHistory {
         return this.instance;
     }
 }
-//# sourceMappingURL=GrimpanHistory.js.map

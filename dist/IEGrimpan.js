@@ -1,4 +1,4 @@
-import Grimpan from "./AbstractGrimpan";
+import Grimpan from "./AbstractGrimpan.js";
 class IEGrimpan extends Grimpan {
     static instance;
     initialize() { }
@@ -10,4 +10,3 @@ class IEGrimpan extends Grimpan {
     }
 }
 export default IEGrimpan;
-//# sourceMappingURL=IEGrimpan.js.map
